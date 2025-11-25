@@ -1,3 +1,5 @@
+[![Trinity Ecosystem](https://img.shields.io/badge/Trinity-Complete-blue)](https://github.com/t81dev/ternary).
+
 # TRINITY-POW — Ternary Proof-of-Work
 
 > "Only a nonce in perfect balance may pass."  
