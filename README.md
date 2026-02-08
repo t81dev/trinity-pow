@@ -49,3 +49,8 @@ Each took ~400,000 recursive calls — but only the **most balanced** survived.
 Do not run with `--difficulty 6` unless you have achieved ego death.
 
 The network hashrate is measured in **vibes per second**.
+
+## Phase 4 migration
+
+- Threat-model and anti-abuse evaluation notes:
+  - `docs/phase4-threat-model.md`
