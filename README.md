@@ -54,3 +54,5 @@ The network hashrate is measured in **vibes per second**.
 
 - Threat-model and anti-abuse evaluation notes:
   - `docs/phase4-threat-model.md`
+- Quarterly objectives (2026 Q1):
+  - `docs/quarterly-objectives-2026-q1.md`
